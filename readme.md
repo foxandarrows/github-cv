@@ -23,7 +23,6 @@ Just a little readme file with the differents repositories on this github
   
 <a href="https://foxandarrows.github.io/react-wallet-with-qr-code/">Simple React Wallet</a>
 
-<a href="https://foxandarrows.github.io/react-kyc/">Simple React Know Your Customer</a>
 
 ## ReactNative
 
