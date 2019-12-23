@@ -1,5 +1,7 @@
 Just a little readme file with the differents repositories on this github
 
+This github is mainly about coding / technical skills, but if you wish to see more visual skills, I invite you to have a look on my <a href="https://www.behance.net/lunalitvak">behance</a> account. There is also my <a href="https://www.behance.net/gallery/55005203/Portfolio-Fox-And-Arrows-Trial-1"> personal website</a> screenshots. Unfortunately, I deleted this website this year. As developer / designer, we are never satisfied of our own portfolio :speak_no_evil:
+
 ## Pure Javascript
 
 <a href="https://foxandarrows.github.io/javascript-sound-library-and-controller/">Pure JavaScript Sound Library</a>
