@@ -1,6 +1,6 @@
 Just a little readme file with the differents repositories on this github
 
-This github is mainly about coding / technical skills, but if you wish to see more visual skills, I invite you to have a look at my <a href="https://www.behance.net/lunalitvak">behance</a> account. On this account, you could see some screenshots of my previous <a href="https://www.behance.net/gallery/55005203/Portfolio-Fox-And-Arrows-Trial-1"> personal website</a>. Unfortunately, I deleted this website. As a developer / designer, I'm never completely satisfied with my own portfolio :speak_no_evil:
+This github is mainly about coding / technical skills, but if you wish to see more visual skills, I invite you to have a look at my <a href="https://www.behance.net/lunalitvak">behance</a> portfolio. On this account, you could see some screenshots of my previous <a href="https://www.behance.net/gallery/55005203/Portfolio-Fox-And-Arrows-Trial-1"> personal website</a>. Unfortunately, I deleted it. Indeed, as a developer / designer, I'm never completely satisfied with my own portfolio :speak_no_evil:
 
 ## Pure Javascript
 
