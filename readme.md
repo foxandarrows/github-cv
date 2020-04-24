@@ -12,19 +12,19 @@ This github is mainly about coding / technical skills, but if you wish to see mo
 
 <a href="https://foxandarrows.github.io/javascript-google-map/">Basic JavaScript Google Map</a>
 
-
 ## ReactJS
 
-<a href="https://foxandarrows.github.io/react-redux-my-grocery-list/">React & Redux Grocery List</a>
-
 <a href="https://foxandarrows.github.io/react-tic-tac-toe/">Fun React Tic Tac Toe Game</a>
-
-<a href="https://github.com/foxandarrows/react-hooks">React Hooks Trial</a>
 
 <a href="https://foxandarrows.github.io/react-form">Simple React Form<a>
   
 <a href="https://foxandarrows.github.io/react-wallet-with-qr-code/">Simple React Wallet</a>
 
+## ReactJS / Redux
+
+<a href="https://foxandarrows.github.io/react-redux-my-grocery-list/">React & Redux Grocery List</a>
+
+<a href="https://github.com/foxandarrows/react-redux-videoplayer">A video player, with React & Redux</a>
 
 ## ReactNative
 
@@ -34,5 +34,11 @@ This github is mainly about coding / technical skills, but if you wish to see mo
 
 <a href="https://github.com/foxandarrows/node-authentification">Node Authentification<a>
   
-<a href="https://github.com/foxandarrows/link-react-frontend-node-backend">Link Front & Back Trial<a> 
+<a href="https://github.com/foxandarrows/link-react-frontend-node-backend">Link Front & Back Trial<a>
+  
+## NextJS
+
+<a href="https://github.com/foxandarrows/nextjs-api">Basic NextJS application with fetching from an API<a>
+  
+  
   
