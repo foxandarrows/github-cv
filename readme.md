@@ -22,7 +22,7 @@ This github is mainly about coding / technical skills, but if you wish to see mo
 
 <a href="https://foxandarrows.github.io/react-redux-list/">React & Redux Grocery List</a>
 
-<a href="https://github.com/foxandarrows/react-redux-videoplayer">A video player, with React & Redux</a>
+<a href="https://foxandarrows.github.io/react-redux-videoplayer">A video player, with React & Redux</a>
 
 ## ReactNative
 
