@@ -10,8 +10,6 @@ This github is mainly about coding / technical skills, but if you wish to see mo
 
 <a href="https://foxandarrows.github.io/javascript-canvas-first-trial/">Basic Canvas Trial</a>
 
-<a href="https://foxandarrows.github.io/javascript-google-map/">Basic JavaScript Google Map</a>
-
 ## ReactJS
 
 <a href="https://foxandarrows.github.io/react-tic-tac-toe/">Fun React Tic Tac Toe Game</a>
@@ -22,7 +20,7 @@ This github is mainly about coding / technical skills, but if you wish to see mo
 
 ## ReactJS / Redux
 
-<a href="https://foxandarrows.github.io/react-redux-my-grocery-list/">React & Redux Grocery List</a>
+<a href="https://foxandarrows.github.io/react-redux-list/">React & Redux Grocery List</a>
 
 <a href="https://github.com/foxandarrows/react-redux-videoplayer">A video player, with React & Redux</a>
 
